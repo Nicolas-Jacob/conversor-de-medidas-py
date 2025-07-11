@@ -16,7 +16,7 @@ Este é um projeto de terminal feito em Python que permite converter unidades de
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/conversor-universal.git
+git clone https://github.com/Nicolas-Jacob/conversor-universal-py.git
 cd conversor-universal
 ```
 
