@@ -1,4 +1,4 @@
-# Conversor Universal
+# Conversor de Medidas
 
 Este é um projeto de terminal feito em Python que permite converter unidades de **medidas**, **moedas** e **tempo** de forma simples e prática.
 
